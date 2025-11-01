@@ -1,4 +1,4 @@
-# SpringHibernateDemo.
+# SpringHibernateDemo..
 
 This repository contains a Maven Java 17 project scaffold for Spring + Hibernate with MySQL.
 
